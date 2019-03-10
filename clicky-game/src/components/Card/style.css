@@ -1,0 +1,23 @@
+.card {
+  border: 8px solid black;
+  height: 150px;
+  width: 200px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.22);
+  margin: 15px 45px;
+  background-color: gray;
+}
+
+.card .fa-spinner {
+  font-size: 180px;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+}
+
+img {
+  height: 125px;
+  width: 150px;
+  padding: 10px;
+  margin-left: 9%;
+  margin-top: 5%;
+}

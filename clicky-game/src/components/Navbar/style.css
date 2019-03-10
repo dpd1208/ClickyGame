@@ -1,0 +1,139 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+ul {
+  width: 100%;
+}
+
+.itemCenter {
+  margin-left:25%;
+
+}
+
+.itemRight {
+  margin-left:25%;
+}
+
+.navbar {
+  background: #550f55;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+li {
+  color: white;
+  padding: 12px 0;
+}
+
+body {
+  font-size: 24px;
+}
+
+@media only screen and (max-width: 1055px) {
+  body {
+    font-size: 20px;
+  }
+  li {
+    color: white;
+    padding: 10px 0;
+  }
+  .itemCenter {
+    margin-left:25%;
+  
+  }
+  
+  .itemRight {
+    margin-left:25%;
+}
+}
+
+@media only screen and (max-width: 855px) {
+  body {
+    font-size: 18px;
+  }
+  li {
+    color: white;
+    padding: 2px 0;
+  }
+  .itemCenter {
+    margin-left:18%;
+  
+  }
+  
+  .itemRight {
+    margin-left:22%;
+  }
+}
+
+@media only screen and (max-width: 663px) {
+  body {
+    font-size: 15px;
+  }
+  li {
+    color: white;
+    padding: 2px 0;
+  }
+  .itemCenter {
+    margin-left:18%;
+  
+  }
+  
+  .itemRight {
+    margin-left:18%;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  body {
+    font-size: 12px;
+  }
+  li {
+    color: white;
+    padding: 2px 0;
+  }
+  .itemCenter {
+    margin-left:15%;
+  
+  }
+  
+  .itemRight {
+    margin-left:15%;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  body {
+    font-size: 10px;
+  }
+  li {
+    color: white;
+    padding: 0px 0;
+  }
+  .itemCenter {
+    margin-left:14%;
+  
+  }
+  
+  .itemRight {
+    margin-left:14%;
+}
+}
+
+@media only screen and (max-width: 346px) {
+  body {
+    font-size: 10px;
+  }
+  li {
+    color: white;
+    padding: 0px 0;
+  }
+  .itemCenter {
+    margin-left:10%;
+  
+  }
+  
+  .itemRight {
+    margin-left:10%;
+  }
+}

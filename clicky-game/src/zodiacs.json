@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "aquarius",
+      "image": "aquarius.png"
+    },
+    {
+      "id": 2,
+      "name": "aries",
+      "image": "aries.png"    
+    },
+    {
+      "id": 3,
+      "name": "cancer",
+      "image": "cancer.png"
+    },
+    {
+      "id": 4,
+      "name": "capricorn",
+      "image": "capricorn.png" 
+    },
+    {
+      "id": 5,
+      "name": "gemini",
+      "image": "gemini.png"
+    },
+    {
+      "id": 6,
+      "name": "leo",
+      "image": "leo.png"
+    },
+    {
+      "id": 7,
+      "name": "libra",
+      "image": "libra.png"
+    },
+    {
+      "id": 8,
+      "name": "pisces",
+      "image": "pisces.png"
+    },
+    {
+      "id": 9,
+      "name": "sagittarius",
+      "image": "sagittarius.png"
+    },
+    {
+      "id": 10,
+      "name": "scorpio",
+      "image": "scorpio.png"
+    },
+    {
+      "id": 11,
+      "name": "taurus",
+      "image": "taurus.png"
+    },
+    {
+      "id": 12,
+      "name": "virgo",
+      "image": "virgo.png"
+    }
+  ]

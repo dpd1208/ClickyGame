@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0px 200px 50px 200px;
+    justify-content: space-around;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .wrapper {
+        padding: 0px 20px 50px 20px;
+    }
+  }
